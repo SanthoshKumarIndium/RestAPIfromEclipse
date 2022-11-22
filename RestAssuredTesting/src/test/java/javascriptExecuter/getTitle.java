@@ -28,7 +28,6 @@ public class getTitle {
 		System.out.println(run);
 		
 		driver.close();
-
 	}
 
 }
