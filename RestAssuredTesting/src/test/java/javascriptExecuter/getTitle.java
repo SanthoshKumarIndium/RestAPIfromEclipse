@@ -26,7 +26,8 @@ public class getTitle {
 		
 		String run=js.executeScript(box).toString();
 		System.out.println(run);
-	
+		
+		driver.close();
 
 	}
 
